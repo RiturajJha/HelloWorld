@@ -1,2 +1,2 @@
 # HelloWorldExample
-A simple Hello World program
+Example 1
